@@ -1,0 +1,12 @@
+---
+slug: :quickstep_twitter
+depends:
+  mikutter: 3.5.7
+  plugin: []
+version: '1.0'
+author: toshi_a
+name: 'QuickStep: Twitter'
+description: >-
+  QuickStepプラグインのサジェスト候補に、Twitter関連のリソースを追加します。
+  - ツイート検索
+  - 入力されたスクリーンネームのユーザのプロフィールを開く
